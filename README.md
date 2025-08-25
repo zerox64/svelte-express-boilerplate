@@ -12,11 +12,8 @@ For this project you need [__Node__](https://nodejs.org/en/) installed on your m
 
 You can clone this repository using __Git__:
 ```bash
-git clone https://github.com/dj0nny/svelte-express-boilerplate.git
+git clone https://github.com/zerox64/svelte-express-boilerplate.git
 ```
-
-Or download the repository [here](https://github.com/dj0nny/svelte-express-boilerplate/archive/develop.zip)
-
 ### Quick start
 
 ```bash
